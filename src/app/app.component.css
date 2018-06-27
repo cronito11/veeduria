@@ -1,0 +1,82 @@
+
+header {
+ max-height: 10vh;
+ height: 10vh;
+}
+header div{
+    float: left;
+    max-height: 100%;
+    display: block;
+    height: 100%;
+}
+header #logoApp{
+    width: 10%;
+}
+header #banner{
+    width: 80%;
+    text-align: center;
+}
+header #userRef{
+    width: 10%;
+    text-align: center;
+}
+header img{
+    height: 80%;
+}
+header h4{
+    height: 20%;
+    margin-top: 0%;
+    width: 100%;
+}
+nav {
+    margin-top: 2vh;
+    height: 8vh;
+}
+nav img{
+     max-height:  100%;
+}
+nav div{
+    float: left;
+}
+nav #menuDespegableBtn {
+    width: 10%;
+    height: 100%;
+}
+nav #Menu {
+    width: 60%;
+    height: 100%;
+    position: relative;
+}
+nav #Menu ul{
+    list-style: none;
+    margin: 0%;
+    height: 100%;
+    padding: 0% 0%;
+    text-align: center
+}
+nav #Menu ul li{
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+    padding-top: 4%;
+    display: block;
+   
+}
+nav #busqueda{
+    padding-top: 2.5%;
+    height: 97.5%;
+    width: 30%;
+}
+nav #busqueda input[type=text]{
+    width: 70%;
+    float: left;
+}
+
+nav #busqueda input[type=submit]{
+    width: 20%;
+    margin-left: 2%;
+    float: left;
+}
+header img {
+max-height: 100%;
+}
